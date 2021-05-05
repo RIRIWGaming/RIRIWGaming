@@ -28,19 +28,20 @@
   <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/RIRIWGaming"><img src="https://github-readme-stats.vercel.app/api?username=RIRIWGaming&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/RIRIWGaming"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RIRIWGaming&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
+<p align="center">
 
+  <a href="https://github.com/RIRIWGaming"><img src="https://github-readme-stats.vercel.app/api?username=RIRIWGaming&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+
+</p>
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIRIWGaming" />
 </p>
 
-### TROPY
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mancabot&theme=onedark" /></a>
 </p>
